@@ -1,0 +1,22 @@
+#sauda > span{
+    color: rgb(99, 99, 186);
+    background-color: #7fffd4;
+    border-radius: 10px;
+}
+
+input{
+    width: 30px;
+    height: 30px;
+}
+
+#to-do-list{
+    float: right;
+    background-color: aquamarine;
+    margin-right: 20px;
+    width: 650px;
+}
+
+#to-do-list > h1{
+    text-align: center;
+    color: white;
+}
