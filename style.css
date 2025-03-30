@@ -4,6 +4,10 @@
     border-radius: 10px;
 }
 
+#sauda{
+    color: white;
+}
+
 input{
     width: 30px;
     height: 30px;
@@ -14,9 +18,19 @@ input{
     background-color: aquamarine;
     margin-right: 20px;
     width: 650px;
+    height: 400px;
 }
 
 #to-do-list > h1{
     text-align: center;
     color: white;
+}
+
+#lista-tarefa{
+    margin: 40px;
+}
+
+#add-item-input{
+margin-right: 10px;
+height: 40px;
 }
