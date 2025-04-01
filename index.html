@@ -8,23 +8,19 @@
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="mobile.css">
   </head>
-  <body class="bg-secondary">
+  <body class="bg-primary">
     <h1 class="text-center mt-3 mb-5 " id="sauda"></h1>
 
     <section class="bg-info  mr-5 rounded" id="to-do-list">
         <h1 class="pt-4">Lista De Tarefas</h1>
         
-            <ol id="lista-tarefa" class="list-group">
+            <ol id="lista-tarefa" class="list-group" style="list-style-type: decimal;">
                 <li class="list-group-item active d-flex" aria-current="true"> 
-                    <input id="add-item-input" type="text" class="form-control w-50 text-center " id="formGroupExampleInput" placeholder="Adicionar Tarefa">
-                    <button onclick="adicionaLista()" type="button" class="btn btn-warning">Adicionar </button>
-                </li>
-                <li class="list-group-item">1-</li>
-                <li class="list-group-item">2-</li>
-                <li class="list-group-item">3-</li>
-                <li class="list-group-item">4-</li>
-                
-              </ol>
+                    <input id="add-item-input" type="text" class="form-control w-50 text-center " id="formGroupExampleInput" placeholder="Adicionar Tarefa">___
+                    <button onclick="adicionaLista()" type="button" class="btn btn-warning">Adicionar</button> ___
+                    <button onclick="limpaLista()" type="button" class="btn btn-warning pl-2">Limpa tudo</button>
+                </li>  
+            </ol>
         
 
     </section>

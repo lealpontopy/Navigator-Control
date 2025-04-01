@@ -31,6 +31,12 @@ input{
 }
 
 #add-item-input{
-margin-right: 10px;
+
 height: 40px;
+}
+
+#delete-button{
+    margin-left: 10px;
+    float: right;
+
 }
