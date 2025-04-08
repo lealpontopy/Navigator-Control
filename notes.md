@@ -1,0 +1,4 @@
+- Fazer Uma Lista de tarefas
+- Fazer Uma Seção de atalhos divididas entre Plataformas/programar/aprender programação/site uteis igual TED talk e etc /Música e vídeo/ Redes Sociais/projetos/sites que preciso acessar (clickup e etc)/Livros
+- Mostrar Hora data e etc
+-botar tarefas diarias pra fazer
